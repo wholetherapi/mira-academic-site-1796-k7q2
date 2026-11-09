@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/latency-aware-spiking-encoders
 excerpt: 'First author: Mira Ostrowski'
 date: "2024"
+paperurl: ''
 venue: 'arXiv'
 citation: 'Latency-Aware Spiking Encoders for Neuromorphic Vision (2024).'
 ---

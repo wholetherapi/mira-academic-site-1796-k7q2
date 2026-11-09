@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/calibrating-clinical-vision-models
 excerpt: 'Co-author: Mira Ostrowski'
 date: "2023"
+paperurl: ''
 venue: 'MICCAI 2023'
 citation: 'Calibrating Clinical Vision Models Under Distribution Shift: A Rank-Preserving Approach (MICCAI 2023).'
 ---
