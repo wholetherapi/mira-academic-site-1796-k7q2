@@ -1,2 +1,7 @@
-# mira-academic-site-1796-k7q2
-Academic personal website for Mira Ostrowski
+# Mira Ostrowski's Academic Homepage
+
+A Jekyll-style academic personal website for Mira Ostrowski.
+
+- About: /about/
+- CV: /cv/
+- Publications: /publications/

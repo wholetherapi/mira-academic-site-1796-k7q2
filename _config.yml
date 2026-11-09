@@ -1,0 +1,35 @@
+title: "Mira Ostrowski"
+description: "Third-year MSc candidate at the Alderney Institute of Cognitive Computing (AICC)"
+url: ""
+baseurl: ""
+
+author:
+  name: "Mira Ostrowski"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Third-year MSc candidate at the Alderney Institute of Cognitive Computing (AICC)"
+  email: "mira.ostrowski@aicc.edu"
+  github: "mira-ostrowski"
+  scholar: "https://scholar.google.com/citations?user=MOstrowski2023&hl=en"
+  twitter: "@mira_ostrowski"
+
+markdown: kramdown
+permalink: /:categories/:title/
+
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+  - scope:
+      path: "_pages"
+    values:
+      layout: single
+
+include:
+  - _pages
